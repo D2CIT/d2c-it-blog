@@ -1,6 +1,6 @@
 ##########################################################################                                  
-# Mark van de Waarsenburg 
-# Kijk voor meer blogs op : www.D2C-IT.nl/blog
+# Author : D2C-IT : Mark van de Waarsenburg 
+#          Kijk voor meer blogs op : www.D2C-IT.nl/blog
 ##########################################################################  
 
 
